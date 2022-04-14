@@ -1,4 +1,4 @@
-![App Screenshot](.github/cover.png)
+![App Screenshot](.github/appcover.png)
 
 
 # GoPizza
